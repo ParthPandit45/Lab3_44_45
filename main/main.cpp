@@ -1,5 +1,5 @@
 #include<iostream>
-#include "../implementation/arrayBST.cpp"
+#include "../Implementation/arrayBST.cpp"
 
 int main() {
     arrayBST bst;
