@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ArrayBST.h"
+#include "../Header/ArrayBST.h"
 arrayBST::arrayBST(int size) : data(nullptr), size(size), checker(0) 
 {
     data = new Arraykey[size];
